@@ -1,1 +1,1 @@
-# covid_tracker
+# Netflix styled movie app theme
